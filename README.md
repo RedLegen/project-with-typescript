@@ -23,9 +23,22 @@ yarn
 ```
 
 ## Testing
-run this code for to see the changes
+first run this code in backend
 ```node
 node dist/index.js
 ```
+
+then run this code on the frontend
+
+```yarn
+yarn start
+```
+
+or npm
+
+```npm
+npm start
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
